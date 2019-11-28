@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VKONTAKTE</string>
+    <string name="vhod">Sign In</string>
+    <string name="login">LOGIN</string>
+    <string name="parol">PASSWORD</string>
+    <string name="button">SIGN IN</string>
+</resources>
